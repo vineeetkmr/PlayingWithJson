@@ -1,0 +1,8 @@
+{
+  "Name": "John Doe",
+  "channel": "Tech Insights",
+  "active": true,
+  "age": 28,
+  "member": [ "Alice", "Bob", "Charlie" ]
+}
+
